@@ -39,7 +39,7 @@ All CSV files are located in the project root directory. Do not modify them.
 ```
 ECommerce_Sales_Analytics_Dataset/
 │
-├── Vishnu upendra Borusu_ECommerce_Sales_Analytics.ipynb   # Main Jupyter Notebook (34 sections)
+├── Vishnuupendra Borusu_ECommerce_Sales_Analytics.ipynb   # Main Jupyter Notebook (34 sections)
 ├── requirements.txt                           # Python dependencies
 ├── README.md                                  # This file
 │
